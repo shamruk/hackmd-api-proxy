@@ -13,7 +13,7 @@ A simplified proxy for HackMD API, designed for LLM (Large Language Model) consu
 ## Installation
 
 ### Install dependencies
-`npm ci` or `npm upgrade` if needed
+`npm install`
 
 ## Getting Your API Token
 

@@ -83,3 +83,5 @@ hackmd-api-proxy/
 ```
 
 For complete API reference and usage examples, refer to [README.md](README.md).
+
+@DOCUMENTATION.md
